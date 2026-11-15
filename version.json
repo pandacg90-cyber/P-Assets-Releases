@@ -1,12 +1,12 @@
 {
-  "version": "2.5.0",
-  "display_version": "v2.5.0",
+  "version": "2.5.1",
+  "display_version": "v2.5.1",
   "published_at": "2026-11-15",
   "mandatory": false,
   "github_repo": "pandacg90-cyber/P-Assets-Releases",
   "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
   "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
-  "sha256": "d1737c51e6be89749eb2fa272d7764f9923bac8e34726ab0f46ce0f2dadcf046",
+  "sha256": "2cfe9aaca1c6c96744b920db43edd2ee49a6973dd809053c4aaafc893cd64a87",
   "changelog_ar": [
     "تحسينات في الأداء وسرعة الاستجابة داخل 3ds Max",
     "دعم التحديث التلقائي المباشر (Auto-Update) بضغطة واحدة",
