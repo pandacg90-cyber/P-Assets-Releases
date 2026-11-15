@@ -1,0 +1,20 @@
+{
+  "version": "2.5.0",
+  "display_version": "v2.5.0",
+  "published_at": "2026-11-15",
+  "mandatory": false,
+  "github_repo": "pandacg90-cyber/P-Assets-Releases",
+  "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
+  "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
+  "sha256": "7405eb0daa9861a2cb070f1a26710b1763cc83152562109b1303bbbc28920eb3",
+  "changelog_ar": [
+    "تحسينات في الأداء وسرعة الاستجابة داخل 3ds Max",
+    "دعم التحديث التلقائي المباشر (Auto-Update) بضغطة واحدة",
+    "تحديث أدوات المشهد والباتش ريندر"
+  ],
+  "changelog_en": [
+    "Performance and responsiveness improvements in 3ds Max",
+    "Added 1-click encrypted Auto-Update support",
+    "Enhanced Scene Tools and Batch Render Studio"
+  ]
+}
