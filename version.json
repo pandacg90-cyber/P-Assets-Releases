@@ -1,20 +1,20 @@
 {
-  "version": "2.5.1",
-  "display_version": "v2.5.1",
-  "published_at": "2026-11-15",
+  "version": "2.5.2",
+  "display_version": "v2.5.2",
+  "published_at": "2026-11-16",
   "mandatory": false,
   "github_repo": "pandacg90-cyber/P-Assets-Releases",
   "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
   "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
-  "sha256": "b6896db4d545a7f54c78534861a79458ec57a818d2003a1b150ca421b9d1e4a1",
+  "sha256": "881ccde0244b62d5a21eafe863ec6ef685f72dea734f27e14633ea2a4df6adef",
   "changelog_ar": [
-    "تحسينات في الأداء وسرعة الاستجابة داخل 3ds Max",
-    "دعم التحديث التلقائي المباشر (Auto-Update) بضغطة واحدة",
-    "تحديث أدوات المشهد والباتش ريندر"
+    "إضافة شريط أدوات الخامات والـ UVW المدمج داخل 3ds Max (Quick Material & UVW Toolbar)",
+    "تحسينات في لوحة تفاصيل الأصل (Inspector) وأدوات المشهد (Scene Tools)",
+    "تطوير محرك استيراد الخامات والبلوكات ودعم التحديث التلقائي المباشر"
   ],
   "changelog_en": [
-    "Performance and responsiveness improvements in 3ds Max",
-    "Added 1-click encrypted Auto-Update support",
-    "Enhanced Scene Tools and Batch Render Studio"
+    "Added native dockable 3ds Max Quick Material & UVW Toolbar",
+    "Enhanced Asset Inspector Drawer and Scene Tools Dashboard",
+    "Improved MaxImporter material/model handling and 1-click Auto-Updater"
   ]
 }
