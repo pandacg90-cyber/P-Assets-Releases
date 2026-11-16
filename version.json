@@ -1,12 +1,12 @@
 {
-  "version": "2.5.2",
-  "display_version": "v2.5.2",
+  "version": "2.5.3",
+  "display_version": "v2.5.3",
   "published_at": "2026-11-16",
   "mandatory": false,
   "github_repo": "pandacg90-cyber/P-Assets-Releases",
   "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
   "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
-  "sha256": "881ccde0244b62d5a21eafe863ec6ef685f72dea734f27e14633ea2a4df6adef",
+  "sha256": "95cc1609f3c974df6b6a338f9f8ad342028ceca32b1df7e3992e2a2d2953454a",
   "changelog_ar": [
     "إضافة شريط أدوات الخامات والـ UVW المدمج داخل 3ds Max (Quick Material & UVW Toolbar)",
     "تحسينات في لوحة تفاصيل الأصل (Inspector) وأدوات المشهد (Scene Tools)",
