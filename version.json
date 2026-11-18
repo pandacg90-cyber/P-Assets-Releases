@@ -6,7 +6,7 @@
   "github_repo": "pandacg90-cyber/P-Assets-Releases",
   "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
   "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
-  "sha256": "d103c7199cbbd2c1b236388b78a2c5a5217abc1e2724995e32fceb52eee66216",
+  "sha256": "31778cf4f35446cc799cd44c5d0cf3bc9f318883a43f8f309e1e14dfa6569a3b",
   "changelog_ar": [
     "تحسينات في أداء عرض الكروت (Asset Cards) وتخزين الصور المصغرة (Thumbnail Cache)",
     "تطوير التمرير اللانهائي (Infinite Scroll) وتخطيط الشبكة المتجاوب (Flow Layout)",
