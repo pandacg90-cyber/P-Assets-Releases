@@ -1,20 +1,20 @@
 {
-  "version": "2.5.4",
-  "display_version": "v2.5.4",
-  "published_at": "2026-11-18",
+  "version": "2.5.5",
+  "display_version": "v2.5.5",
+  "published_at": "2026-11-22",
   "mandatory": false,
   "github_repo": "pandacg90-cyber/P-Assets-Releases",
   "download_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Update.zip",
   "installer_url": "https://github.com/pandacg90-cyber/P-Assets-Releases/releases/latest/download/P-Assets_Installer.exe",
-  "sha256": "31778cf4f35446cc799cd44c5d0cf3bc9f318883a43f8f309e1e14dfa6569a3b",
+  "sha256": "841caca5d77e782b4addf9587ac9bbc604a36129b0d180eae76a7bfc43356983",
   "changelog_ar": [
-    "تحسينات في أداء عرض الكروت (Asset Cards) وتخزين الصور المصغرة (Thumbnail Cache)",
-    "تطوير التمرير اللانهائي (Infinite Scroll) وتخطيط الشبكة المتجاوب (Flow Layout)",
-    "تحسينات شاملة في سرعة الاستجابة واستقرار الواجهة داخل 3ds Max"
+    "تحسينات في سرعة واستقرار التحميل الصامت عبر تيليجرام (Telegram Download Service)",
+    "تطوير الاتصال بالسيرفر (API Client) وتحسين استجابة الواجهة",
+    "تحديث الموارد البصرية وتحسينات عامة في الأداء داخل 3ds Max"
   ],
   "changelog_en": [
-    "Improved Asset Card rendering performance and Thumbnail Cache engine",
-    "Enhanced Infinite Scroll and responsive Flow Layout grid",
-    "General UI responsiveness and stability improvements inside 3ds Max"
+    "Enhanced Telegram silent download speed and stability",
+    "Improved API Client reliability and UI responsiveness",
+    "Updated visual resources and general performance optimizations in 3ds Max"
   ]
 }
